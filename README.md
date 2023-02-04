@@ -2,7 +2,7 @@
 
 The project exposes a simple rest endpoint to publish the message to a kafka topic using spring kafka's KafkaTemplate.
 
-The project has a filtered listener which only consumes the messages that meets the filtered criteria based on the filter criteria d
+The project has a filtered listener which only consumes the messages that meets the filtered criteria based on the filter criteria (eventType)
 
 ### Versions:
 Spring boot: 3.0.2
